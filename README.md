@@ -2,6 +2,10 @@
 
 Muchos ejercicios, si es necesario busquen en google y si usan IA, coloquen dos archivos, tipo: `parametro_x_IA.py` y `parametro_x_mio.py` para tener en cuenta las dos versiones UwU
 
+> [!NOTE]  
+> 
+> Recuerda que las solicitudes de fusión van en la rama develop
+
 # Ejercicios
 
 - Colocar una función que tome como parámetro el valor de 'x' para la siguiente función matemática (utilizar la librería math) $\frac{3+x* \pi + \sin(2x^2)}{2|x|}$
